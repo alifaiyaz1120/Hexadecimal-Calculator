@@ -1,0 +1,18 @@
+body{
+  background-color: silver;
+}
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.calculator-wrapper{
+ background-color: black;
+ width: 400px;
+ border-radius: 16px;
+}
+.row {
+  display: flex;
+}
+
+
