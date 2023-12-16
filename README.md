@@ -31,7 +31,7 @@ This project is a Hexadecimal Calculator built with ReactJS. It allows users to 
 
 1. Clone the repository.
 ```bash
-git clone [repository_url]
+git clone https://github.com/alifaiyaz1120/Hexadecimal-Calculator.git
 ```
 
 2. Install dependencies.
