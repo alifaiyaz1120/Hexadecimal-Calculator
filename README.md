@@ -30,9 +30,10 @@ This project is a Hexadecimal Calculator built with ReactJS. It allows users to 
 ## Installation
 
 1. Clone the repository.
-   ```bash
-   git clone [repository_url]
-  '''
+```bash
+git clone [repository_url]
+```
+
 2. Install dependencies.
 ```bash
 npm install
