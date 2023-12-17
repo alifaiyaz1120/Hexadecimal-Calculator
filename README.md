@@ -4,6 +4,8 @@
 
 This project is a Hexadecimal Calculator built with ReactJS. It allows users to perform basic arithmetic operations using hexadecimal values.
 
+By: Ali Faiyaz
+
 ## Features
 
 1. **Calculator Buttons & UI:**
